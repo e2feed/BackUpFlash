@@ -1,8 +1,7 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # RAED & mfaraj57 (c) 2015 - 2025
 
-# python3
 from __future__ import print_function
 
 from enigma import eConsoleAppContainer, eTimer
@@ -338,3 +337,4 @@ class ProgressScreen(Screen):
 
 	def restartenigma(self):
 		self.session.open(TryQuitMainloop, 3)
+
