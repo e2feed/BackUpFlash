@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # RAED & mfaraj57 (c) 2015 - 2025
 
@@ -205,3 +205,4 @@ class imagedownloadScreen(Screen):
 		else:
 			self.instance.show()
 			self.shown = True
+
