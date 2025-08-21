@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # RAED & mfaraj57 (c) 2018 - 2025
 
@@ -653,3 +653,4 @@ def Plugins(**kwargs):
 				)
 			)
 	return result
+
